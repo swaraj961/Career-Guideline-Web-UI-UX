@@ -4,7 +4,8 @@
 - proper Guidelines for everyone towards various carrers
 - with login UI and Other cool Features
 
-
+## UI DEMO 
+![lins](https://github.com/swaraj961/Career-Guideline-Web-UI-UX/blob/master/UI%20demo/UI%202gif.gif) 
 
 
 # Hosted on XD -
